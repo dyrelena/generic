@@ -17,6 +17,7 @@ namespace Task5CarCollection
 
             
             myCars.CarsPrint<Car>();
+            Console.ReadLine();
         }
     }
 
